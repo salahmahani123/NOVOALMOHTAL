@@ -1,0 +1,47 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+128.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip4-localhost
+::1 ip4-loopback
+fe80::1%lo0 localhost
+104.37.214.18 localhost
+fe80::2 ip6-block
+fe80::1 ip4-b
+ff02::4 ahmedifary
+::1 localhost
+98.136.103.26 .flurry.com
+212.82.100.153 .flurry.com
+74.6.136.153 .flurry.com
+125.39.52.26 .qq.com
+58.250.137.36 .qq.com
+58.247.214.47 .qq.com
+52.9.60.147 .helpshift.com
+54.183.150.73 .helpshift.com
+2600:1f1c:361:600:1c13:eb88:ffdc:7dbc .helpshift.com
+2600:1f1c:361:616:19da:7d04:ba65:c228 .helpshift.com
+52.9.60.147
+54.183.150.73
+2600:1f1c:361:600:1c13:eb88:ffdc:7dbc
+2600:1f1c:361:616:19da:7d04:ba65:c228
+41.231.30.139 .igamecj.com
+104.37.214.18 .igamecj.com
+77.89.232.86 .igamecj.com
+58.220.109.50 .igamecj.com
+34.685.952 .igamecj.com
+128.0.0.1 .igamecj.com
+41.231.30.139 .proximabeta.com
+104.37.214.18 .proximabeta.com
+77.89.232.86 .proximabeta.com
+58.220.109.50 .proximabeta.com
+34.685.952 .proximabeta.com
+128.0.0.1 .proximabeta.com
+87.240.129.187 .userapi.com
+87.240.190.64 .userapi.com
+54.153.56.183 .cn.com
+0.16.0.1 .google.com
+0.16.0.1 api.phenixos.com
+::1 localhost
+ff02::4 ip4-block
+127.0.0.1 localhost
